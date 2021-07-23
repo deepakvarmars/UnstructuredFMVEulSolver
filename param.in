@@ -1,0 +1,8 @@
+feflo.domn.bump
+
+1	   case1
+0.5        cfl
+10000000   itmax
+1000       itsave
+1          limtype
+1          fluxtype
